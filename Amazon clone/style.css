@@ -20,7 +20,7 @@ border: border-box;
 
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Amazon-clone/amazon_logo.png");
     background-size: cover;
     height: 60px;
     width: 100%;
@@ -128,7 +128,7 @@ margin-left:18px ;
     font-weight: 700;
 }
 .hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url(Amazon-clone/hero_image.jpg);
     height: 350px;
     background-size: cover;
     display: flex;
@@ -220,7 +220,7 @@ ul a{
 }
 
 .logo {
-    background-image: url("amazon_logo.png");
+    background-image: url("Amazon-clone/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
